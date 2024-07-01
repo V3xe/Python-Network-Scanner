@@ -1,0 +1,96 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="83">
+            <item index="0" class="java.lang.String" itemvalue="emoji" />
+            <item index="1" class="java.lang.String" itemvalue="certifi" />
+            <item index="2" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="3" class="java.lang.String" itemvalue="requests" />
+            <item index="4" class="java.lang.String" itemvalue="clyent" />
+            <item index="5" class="java.lang.String" itemvalue="protobuf" />
+            <item index="6" class="java.lang.String" itemvalue="python-lsp-jsonrpc" />
+            <item index="7" class="java.lang.String" itemvalue="atomicwrites" />
+            <item index="8" class="java.lang.String" itemvalue="jsonpointer" />
+            <item index="9" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="10" class="java.lang.String" itemvalue="PyQtWebEngine" />
+            <item index="11" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="12" class="java.lang.String" itemvalue="fonttools" />
+            <item index="13" class="java.lang.String" itemvalue="patsy" />
+            <item index="14" class="java.lang.String" itemvalue="pyls-spyder" />
+            <item index="15" class="java.lang.String" itemvalue="appdirs" />
+            <item index="16" class="java.lang.String" itemvalue="conda-repo-cli" />
+            <item index="17" class="java.lang.String" itemvalue="munkres" />
+            <item index="18" class="java.lang.String" itemvalue="backports.weakref" />
+            <item index="19" class="java.lang.String" itemvalue="conda-verify" />
+            <item index="20" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="21" class="java.lang.String" itemvalue="PyDispatcher" />
+            <item index="22" class="java.lang.String" itemvalue="ply" />
+            <item index="23" class="java.lang.String" itemvalue="webencodings" />
+            <item index="24" class="java.lang.String" itemvalue="inflection" />
+            <item index="25" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="26" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="27" class="java.lang.String" itemvalue="validators" />
+            <item index="28" class="java.lang.String" itemvalue="spyder-kernels" />
+            <item index="29" class="java.lang.String" itemvalue="wurlitzer" />
+            <item index="30" class="java.lang.String" itemvalue="conda-libmamba-solver" />
+            <item index="31" class="java.lang.String" itemvalue="qstylizer" />
+            <item index="32" class="java.lang.String" itemvalue="tables" />
+            <item index="33" class="java.lang.String" itemvalue="jupyterlab-widgets" />
+            <item index="34" class="java.lang.String" itemvalue="truststore" />
+            <item index="35" class="java.lang.String" itemvalue="anaconda-navigator" />
+            <item index="36" class="java.lang.String" itemvalue="sympy" />
+            <item index="37" class="java.lang.String" itemvalue="navigator-updater" />
+            <item index="38" class="java.lang.String" itemvalue="service-identity" />
+            <item index="39" class="java.lang.String" itemvalue="xlwings" />
+            <item index="40" class="java.lang.String" itemvalue="Scrapy" />
+            <item index="41" class="java.lang.String" itemvalue="anaconda-anon-usage" />
+            <item index="42" class="java.lang.String" itemvalue="tifffile" />
+            <item index="43" class="java.lang.String" itemvalue="anaconda-project" />
+            <item index="44" class="java.lang.String" itemvalue="streamlit" />
+            <item index="45" class="java.lang.String" itemvalue="menuinst" />
+            <item index="46" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="47" class="java.lang.String" itemvalue="jupyterlab-pygments" />
+            <item index="48" class="java.lang.String" itemvalue="whatthepatch" />
+            <item index="49" class="java.lang.String" itemvalue="anaconda-client" />
+            <item index="50" class="java.lang.String" itemvalue="requests-file" />
+            <item index="51" class="java.lang.String" itemvalue="ruamel-yaml-conda" />
+            <item index="52" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="53" class="java.lang.String" itemvalue="queuelib" />
+            <item index="54" class="java.lang.String" itemvalue="yapf" />
+            <item index="55" class="java.lang.String" itemvalue="conda-content-trust" />
+            <item index="56" class="java.lang.String" itemvalue="libmambapy" />
+            <item index="57" class="java.lang.String" itemvalue="rope" />
+            <item index="58" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="59" class="java.lang.String" itemvalue="Rtree" />
+            <item index="60" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="61" class="java.lang.String" itemvalue="seaborn" />
+            <item index="62" class="java.lang.String" itemvalue="conda" />
+            <item index="63" class="java.lang.String" itemvalue="s3fs" />
+            <item index="64" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="65" class="java.lang.String" itemvalue="QtAwesome" />
+            <item index="66" class="java.lang.String" itemvalue="sip" />
+            <item index="67" class="java.lang.String" itemvalue="tldextract" />
+            <item index="68" class="java.lang.String" itemvalue="three-merge" />
+            <item index="69" class="java.lang.String" itemvalue="conda-build" />
+            <item index="70" class="java.lang.String" itemvalue="conda-token" />
+            <item index="71" class="java.lang.String" itemvalue="conda_index" />
+            <item index="72" class="java.lang.String" itemvalue="ruamel.yaml" />
+            <item index="73" class="java.lang.String" itemvalue="toml" />
+            <item index="74" class="java.lang.String" itemvalue="prometheus-client" />
+            <item index="75" class="java.lang.String" itemvalue="watchdog" />
+            <item index="76" class="java.lang.String" itemvalue="spyder" />
+            <item index="77" class="java.lang.String" itemvalue="Unidecode" />
+            <item index="78" class="java.lang.String" itemvalue="statsmodels" />
+            <item index="79" class="java.lang.String" itemvalue="textdistance" />
+            <item index="80" class="java.lang.String" itemvalue="gmpy2" />
+            <item index="81" class="java.lang.String" itemvalue="requests-toolbelt" />
+            <item index="82" class="java.lang.String" itemvalue="Twisted" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
